@@ -65,14 +65,14 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm text-slate-500">Location</p>
-                  <p className="text-slate-900 font-medium">Ithaca, New York (Open to relocation)</p>
+                  <p className="text-slate-900 font-medium">Addis Ababa, Ethiopia (Open to relocation and world wide remote work)</p>
                 </div>
               </div>
             </div>
 
             <div className="mt-8 flex gap-4">
               <a
-                href="https://linkedin.com/in/SimretMelak"
+                href="https://www.linkedin.com/in/simret-melak/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-3 p-4 bg-[#0077B5] hover:bg-[#006396] text-white rounded-xl transition-colors duration-300"
@@ -81,7 +81,7 @@ export default function ContactSection() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com/SimretMelak"
+                href="https://github.com/Simret-Melak?tab=repositories"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-3 p-4 bg-slate-900 hover:bg-slate-800 text-white rounded-xl transition-colors duration-300"
